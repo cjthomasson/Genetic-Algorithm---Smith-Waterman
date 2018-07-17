@@ -1,1 +1,1 @@
-"#Amith Waterman genetic algorithm for local sequence alignment" 
+"#Smith Waterman genetic algorithm for local sequence alignment" 
